@@ -10,37 +10,20 @@ Be clear and concise in your writing. Bullets points are encouraged.
 
 **Everything, including images, must be visible in _Markdown: Open Preview_.** If it's not visible in the Markdown preview, then we can't grade it. We also can't give you partial credit either. **Please make sure your design journey should is easy to read for the grader;** in Markdown preview the question _and_ answer should have a blank line between them.
 
-
-## Markdown Instructions
-
-**TODO: delete this section before submission.**
-
-This is a Markdown file. All written documents that you will submit this semester will be Markdown files. Markdown is a commonly used format by developers and bloggers. It's something that you should know. Learning it is a learning objective of this course.
-
-**Please use the official [Markdown Reference Documentation](https://commonmark.org/help/) if you aren't sure how to "code" Markdown.**
-
-This is an example for inserting images into Markdown:
-
-![this is an accessible text description of the image](example-sketch.png)
-
-**TODO: delete this section before submission.**
-
-
 ## Personal Site (Milestone 1)
 
 ### Website Topic (Milestone 1)
 > Briefly explain what your website will be about. Share your vision of your personal website.
 >
-> Example: (TODO: delete this) My website will be about the Grassroots festival in Trumansburg NY.
+> My website is for my photography and videography club, Capture @ Cornell. It will be a simple page aimed to inform prospective members to joining, and for other organizations to easily start the process to collab with us. It will only
 
-TODO: tell us about your website
 
 
 ### Device (Milestone 1)
 > How you will your audience likely access your website? On a laptop/desktop computer or a mobile device?
 > You will design your website for mobile or desktop devices (not both).
 
-TODO: mobile or desktop site
+The page will likely be viewed on a mobile device - either the user has scaned a QR code or typed the link; they likely intend to find our Instagram, which is more mobile friendly.
 
 
 ## Personal Website Design Exploration (Milestone 1)
@@ -51,23 +34,18 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 
 **We'll refer to these are your "example websites."**
 
-> TODO: Remove this example in your submission.
-> Example: **(You may not use the instructors' websites for this part.)**
->
-> 0. <https://kharms.infosci.cornell.edu/>
->     ![Kyle Harms' personal website](example-site.png)
 
-1. <TODO: website url>
+1. <https://thecias.org>
 
-    ![TODO: screenshot description](TODO: screenshot path)
+    ![CIAS Homepage](CIAS_homepage.jpg)
 
-2. <TODO: website url>
+2. <https://www.eship.cornell.edu>
 
-    ![TODO: screenshot description](TODO: screenshot path)
+    ![Entrepreneurship at Cornell Homepage](eship_homepage.jpg)
 
-3. <TODO: website url>
+3. <https://www.gionedasilva.com>
 
-    ![TODO: screenshot description](TODO: screenshot path)
+    ![Example photographer's website](photographer_homepage.jpg)
 
 
 ### Personal Website 1 Review (Milestone 1)
@@ -80,7 +58,7 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 > - What do you like about the design?
 > - Is the site designed for desktop, mobile, or desktop and mobile devices?
 
-TODO: website reflection/critique
+This page is designed for students interested in the Cornell International Affairs Society perhaps high schoolers looking forward to the upcoming conference held by CIAS, or Cornellians who were previously a part of MUN in high school. It contains a mission statement and description of the club. The audience likely hopes to learn more about the club and to find contact information about its officers. Content includes a picture of Cornell, a tagline, and two paragraphs outlining the purpose of CIAS. The design is simple and straightforward, and fits both desktop and mobile.
 
 
 ### Personal Website 2 Review (Milestone 1)
@@ -93,7 +71,7 @@ TODO: website reflection/critique
 > - What do you like about the design?
 > - Is the site designed for desktop, mobile, or desktop and mobile devices?
 
-TODO: website reflection/critique
+The Entrepreneurship at Cornell page is intended for students interested in the club and its events, usually self-proclaimed entrepreneurs looking to network and meet other people. Audience members want to learn more information about the club and find ways to join, contact the club, see upcoming events, and reserve a spot in them. Content on the home page is just text about the club a high overview on what the club does. The design is simple and likely works on mobile an desktop.
 
 
 ### Personal Website 3 Review (Milestone 1)
@@ -106,8 +84,7 @@ TODO: website reflection/critique
 > - What do you like about the design?
 > - Is the site designed for desktop, mobile, or desktop and mobile devices?
 
-TODO: website reflection/critique
-
+This website is intended for potential clients and those interested in their portfolio, perhaps engaged couples or other photographers. The audience likely intends to see the photog's work and possibly find a time to book them. Content is a short bio of the photographer written in the third person. The website seems successful in informing its users and addressing their goals. The simple layout and parallax scroll proves to be simple and elegant for mobile and desktop.
 
 ## Audience & Goals (Milestone 1)
 
@@ -116,18 +93,19 @@ Using what you learned from studying the example websites, identify your website
 ### Audience (Milestone 1)
 > Briefly explain who the intended audience is for your website. Be specific and justify why this audience is appropriate for your site's topic.
 
-TODO: site's audience
-
+This site is largely intended for Cornell students who have heard of Capture at Cornell and want to learn more, and/or students who want to join the club. Eboard members of other clubs may also use this website to learn how to start a collab with us. to be using.
 
 ### Audience Goals (Milestone 1)
 > Why would your audience visit your site?
 > Identify at least 3 goals that your users have for visiting your website.
 
-1. TODO: goal
+1. Paramount, a user would like to learn more about the club and what it has to offer.
 
-2. TODO: goal
+2. From there, a user may wish to see social media, such as Instagram to learn even more.
 
-3. TODO: goal
+3. Moreover, the user may wish to collab with C@C, this they will look for the collab form.
+
+
 
 
 ## Content Planning (Milestone 1)
@@ -135,19 +113,22 @@ TODO: site's audience
 Plan your site's content.
 
 ### Your Site's Planned Content (Milestone 1)
+
+
 > List **all** the content you plan to include your personal website.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
+- Provide a mission overview and description of the club and what it does.
+- Provide helpful links to social media, collab form, contact form, join form.
+- A logo of C@C
+- Some photos of the club in the action in g-body meetings, collabs, photowalks
+- An attached constitution
 
 
 ### Content Justification (Milestone 1)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-TODO: justify your content decisions
+ The website will be static and simple - largely plaintext with links to our social media and collab form being most important.The site is intended to be the starting point for those interested in joining C@C - and those who want to learn more or are looking to collab, the simple website will make it easy to navigate to these desired destinations. The site will be designed for mobile as that is what most users are expected. It is intended that the audience will have their goals addressed quickly on this website, or more thorughouly in subsequent pages such as social media or the collab form.
 
 
 ### Home Page Content (Milestone 1)
@@ -155,8 +136,9 @@ TODO: justify your content decisions
 >
 > Briefly identify what content you will include on the homepage and why this content should be the first thing your target audience sees when they visit your site.
 
-TODO: homepage content
-
+- C@C logo is the most important - branding is paramount
+- A brief description of the club, its mission statement, and what it has to offer - important so users can quickly understand context of the club
+- Further links to social media and a collab - allows quick and easy navigation, no need to go to different pages or hunt for the link.
 
 ## Information Architecture (Milestone 2)
 
