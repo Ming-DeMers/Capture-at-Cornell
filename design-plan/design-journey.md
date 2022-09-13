@@ -151,31 +151,30 @@ You may change your homepage content based on your card sorting. If you do chang
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
-TODO: photos and explanations of each iteration
+Iteration 1:
 
+![](iteration_1.jpg)
+The first iteration, I organized marjority of the content onto its own page. This made for many short pages.
+
+Iteration 2:
+![](iteration_2.jpg)
+The second time, I merged some of the content to the same page to make for simpler navigation and fewer pages.
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO: tell us which iteration of card sorting you plan to use.
-
-> Explain how the final organization of content is appropriate for your site's audiences.
-
-TODO: why does this organization make sense for your audience (not you)?
-
+I will be using iteration 2. I believe this will provide a more concise and navigable website for users. The content continues to target students and individuals interested in our club. It's content is helpful for current and prospective members to keep track of what the club is up to, to learn more about the club, and how to join or organize a collab.
 
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+1. homepage
+2. About page
+3. Events page
 
 > Explain why the names of these pages make sense for your site's audience.
 
-TODO: explain why the pages name make sense to the audience.
-
+The homepage will contain the pertientn links as well as a quick blurb about the club. Those who want to learn more *about* the club can go to the about page to learn about its founding, its eboard, and more. The events page will house past and future events, and pictures from the events. This simple layout allows for users to know exactly what they are getting into and be able to easily retrieve the information they are looking for.
 
 ## Visual Themes (Milestone 3)
 
