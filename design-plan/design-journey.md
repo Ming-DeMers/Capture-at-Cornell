@@ -187,24 +187,29 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
 ### Theme Ideas (Milestone 3)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences.
 
-TODO: theme ideas
+Following the theme of C@C, one theme idea could be a red background with white text. The headings in black would work to represent the colors of the club.
+
+Another idea could be to simply all text, and just stylize certain elements with a red accent. 
+
+Using red headings and black text could help to organize content in a stylish way - and the background could take a neutral grey color.
+
+All of these themes work to stylize content in a manner that is consistent with the colors of C@C and its mission as a photo club.
 
 
 ### Final Theme (Milestone 3)
 > Which theme did you select as your final theme? Why?
 
-TODO: what theme will your website use?
-
+The intent of this website is to represent C@C on the web. Our main colors are red (carnelian, in fact!) and white. The site is intended to be simple and mainly static text, thus a white background and with red accenting is the intended theme. For example, <strong> elements will be red, and links will be stylized red instead of blue. No background color or major changes to heading colors seems necessary, although I may choose to target <h1> to be red. 
 
 ### Theme Rationale (Milestone 3)
 > Discuss your final theme design: how do they fit your overall design goals and audiences?
 
-TODO: theme rationale
+Of paramount is readability and simplicity. The website is largely intended for reference and quicklinks. So, a website that is easy to navigate, find content, and click links is important. So using high contrast text, a white background and few other style choices should reach this goal
+
 
 > Emotion is a big part of design. What emotions were you thinking about or trying to convey in your designs?
 
-TODO: theme emotions
-
+Thus a theme that conveys the professionalism and friendliness of a photography club is required. The red color and sans-serif font will lead to a friendly but straight-forward layout. It is hoped to invoke a neutral response - but to convice those interested in the club to join or learn more through pictures and events (i.e. content, not style). 
 
 ## Layout & Composition (Final Submission)
 
