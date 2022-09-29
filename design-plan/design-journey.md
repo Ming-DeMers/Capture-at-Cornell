@@ -199,7 +199,7 @@ All of these themes work to stylize content in a manner that is consistent with 
 ### Final Theme (Milestone 3)
 > Which theme did you select as your final theme? Why?
 
-The intent of this website is to represent C@C on the web. Our main colors are red (carnelian, in fact!) and white. The site is intended to be simple and mainly static text, thus a white background and with red accenting is the intended theme. For example, <strong> elements will be red, and links will be stylized red instead of blue. No background color or major changes to heading colors seems necessary, although I may choose to target <h1> to be red. 
+The intent of this website is to represent C@C on the web. Our main colors are red (carnelian, in fact!) and white. The site is intended to be simple and mainly static text, thus a white background and with red accenting is the intended theme. For example, strong elements will be red, and links will be stylized red instead of blue. No background color or major changes to heading colors seems necessary, although I may choose to target h1 to be red. 
 
 ### Theme Rationale (Milestone 3)
 > Discuss your final theme design: how do they fit your overall design goals and audiences?
@@ -236,8 +236,7 @@ TODO: site sketches
 >dfd
 > Audit your design and check that you aren't relying on any dynamic features.
 
-TODO: Explain why your site's design is completely static.
-
+This website is completely static because it need not be updated often. Largely this site is for reference, that is, for users to visit when they need a link or more information. Periodically, content, such as events and the e-board will be updated, but they will still be static elements.
 
 ## Rationale (Final Submission)
 
@@ -252,40 +251,39 @@ Your rationale should be a polished version of the earlier explanations.
 ### Audience (Final Submission)
 > A complete and polished description of the intended audience(s) for your website.
 
-TODO: audience rationale
-
+The audience continues to be students of Cornell and those interested in learning more about the club. That tends to be photographers and videographers, as well as members and individuals of other clubs or organizations looking to collab with our club. Site visitors likely want to learn more about the club and understand what the club has to offer.
 
 ### Design Goals (Final Submission)
 > An explanation of the design goals for that audience, based on your earlier rationales.
 
-TODO: your design goals
+Mainly, this website will be used for reference, to quickly find upcoming events, relevant links, etc. As such, navigation is straightforward and obvious. The simple bi-color scheme allows for accenting and emphasis on certain content, but nothing over-the-top and overbearing. The text face and header style clearly devises sections and allows for users to find and skip to their desired content easily.
 
 
 ### Content Organization & Navigation (Final Submission)
 > An explanation of how the final content organization and navigation met your goals and why it's appropriate for your audience.
 
-TODO: content and information architecture rationale
-
+Content is separated into three pages. The main page, index.html, contains what most site-users will be looking for: a quick description of the club, and relevant links. Most users, especially those who have seen the website before, will only require the links. The about page, about.html, contains more expository on the club, including its origin, its e-board, and its constitution. Finally, the events page contains upcoming and past events for the club. This gives a concrete description of what the club has to offer. All these pages work together to give site visitors an idea of the club, and actionable choices to fufill what they are looking for.
 
 ### Visual Design (Final Submission)
 > An explanation of how the final design met your goals and why it's appropriate for your audience.
 
-TODO: design rationale
+As mentioned before, the simple coloring displays a page that is easy and simple to use. It is visually pleasing, and matches the color palette of the C@C branding. The accent color, "Capture Red," is used sparingly, to draw attention to headings and links. The rest of the text is a black, contrasted with a white background. The text font is sans-serif, which gives a non-formal style, as this club is intended for anyone and everyone. The small-caps header choice is purely stylistic, but tends to give a young and more active effect. Em elements are highlighted in grey and bold and italic - this is used for slogans and important text, and is thus more noticable than other content. Finally, the e-board about site has its members and member photo side-by-side - allowing for a visually pleasing and less lengthy site.
+
 
 
 ### Self-Reflection (Final Submission)
 > Take some time here to reflect on how much you've learned since you started this class. It's often easy to ignore our own progress. Take a moment and think about your accomplishments in this class. Hopefully you'll recognize that you've accomplished a lot and that you should be very proud of those accomplishments!
 
-TODO: reflection
+As I progressed through the milestones, the site saw a number of change, primarily additions of content that were previously forgotten. I intend to use this website for my club, so it was important to do it right, and make it scalable and maintainable for the future; thus best practices and good organization had to be used. I enjoyed building this website from the ground up, and found most of its straightforward. However, playing with flexboxes was sometimes frustrating. I conferred with my e-board about style choices, but we always erred on the side of simplicity - thus the website in its form. The website will still be updated in the future, but I believe this is a strong start.
 
+In the future, I hope to make this website also cater to mobile, and likely will embed a Google Calendar of upcoming events, rather than manually update the website. Moreover, I will add a list-serv sign-up, which is currently not working. I also intend to add more images of the club being active, and may use image carousels for that purpose.
 
 ## Grading (Final Submission)
 
 ### Mobile or Desktop? (Final Submission)
 > Should the graders, grade your site as a desktop site or a mobile site?
 
-TODO: mobile/desktop
-
+Desktop.
 
 ### Grading: Open the Design Journey in Markdown: Open Preview (Final Submission)
 > Preview your design journey in VS Code. Please verify that this document is easy to read/grade.
@@ -303,10 +301,9 @@ TODO: design journey ready to grade?
 ### Collaborators
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
-
+None.
 
 ### Resources
 > Please cite any external resources you used in the creation of your project.
 
-TODO: list resources
+None.
