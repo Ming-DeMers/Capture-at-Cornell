@@ -219,15 +219,17 @@ Thus a theme that conveys the professionalism and friendliness of a photography 
 > Show your design process.
 > **Use the example websites above as inspiration for your site's design.**
 
-TODO: layout sketches
-
+![layout 1](homepage_design_1.jpg)
+![layout 2](homepage_design_2.jpg)
+![layout 3](homepage_design_3.jpg)
 
 ### Final Site Design (Final Submission)
 > Include a sketch of the final layout for each page in your site.
 > Provide an explanation below each sketch.
 
-TODO: site sketches
-
+![index.html layout](home_final.jpg)
+![about.html layout](about_final.jpg)
+![events.html layout](events_final.jpg)
 
 ### Static Website Design Check (Final Submission)
 > We're building a static website without interactivity.
@@ -295,8 +297,7 @@ Desktop.
 >
 > Is your design journey easy to read?
 
-TODO: design journey ready to grade?
-
+Yes it is!
 
 ### Collaborators
 > List any persons you collaborated with on this project.
