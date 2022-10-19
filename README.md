@@ -1,3 +1,1 @@
-# Project 1
-
-**Submission Instructions:** Stage, commit, and push your changed files. Then complete the submission form.
+A website for the Capture at Cornell Club. This version is for archival purposes, the maintained version can be found at the Capture at Cornell GitHub
